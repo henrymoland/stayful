@@ -2,7 +2,7 @@
   "name": "stayful-server",
   "version": "0.1.0",
   "dependencies": {
-    "apollo-server-express": "^2.13.1",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "googleapis": "^52.1.0",
     "graphql": "^15.0.0",
